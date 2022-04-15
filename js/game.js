@@ -1,6 +1,3 @@
-/* by：弦云孤赫——David Yang
-** github - https://github.com/yangyunhe369
-*/
 // 创建储存积分的变量
 var storageScore = 0;
 // 创建储存总分的变量
@@ -214,7 +211,7 @@ class Game
 		this.context.textAlign = "center"
 		this.context.font = "32px sans-serif"
 		this.context.fillStyle = "#000"
-		this.context.fillText("CXK，你球掉了！", x, y);
+		this.context.fillText("坤，你球掉了！", x, y);
 		this.context.font = "18px sans-serif"
 		this.context.fillText("总得分 ", x, y + 18 * 1.5)
 		this.context.font = "bold 72px sans-serif"
@@ -266,7 +263,7 @@ class Game
 		this.context.textAlign = "center"
 		this.context.font = "32px sans-serif"
 		this.context.fillStyle = "#000"
-		this.context.fillText("CXK，下一关！", x, y);
+		this.context.fillText("坤，下一关！", x, y);
 		this.context.font = "18px sans-serif"
 		this.context.fillText("当前得分 ", x, y + 18 * 1.5)
 		this.context.font = "bold 72px sans-serif"
