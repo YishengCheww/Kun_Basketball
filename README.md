@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/aoB8Er1.png" align=right />
+<img src="https://i.imgur.com/FcHG4kK.jpg" align=right />
 
 #  我是真爱粉
 
